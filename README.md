@@ -15,6 +15,8 @@ We implemented and compared several convolutional neural network (CNN) architect
 ### Dataset
 We used the **Bone Fracture Multi-Region X-Ray Data** dataset from Kaggle, which contains 10,580 labeled images organized into training, validation, and test folders. The images were already rotated in some cases, reducing the need for additional data augmentation. All images were converted to grayscale and resized to 224×224 or 28×28 depending on the model architecture.
 
+Dataset Link: https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data  
+
 ---
 
 ## Files
