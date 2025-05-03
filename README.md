@@ -38,7 +38,7 @@ Each notebook is mostly self-contained and typically includes:
 - Final evaluation via ROC curve 
 
 > **Note:**  
-> The `1_layer_cnn.ipynb` file does not include the final evaluation steps (confusion matrix and classification report) due to the model's limited performance and use of a very small dataset. It was intended as an initial exploration of learning behavior on limited data.
+> The `1_layer_cnn.ipynb` file does not include the final evaluation steps due to the model's limited performance and use of a very small dataset. It was intended as an initial exploration of learning behavior on limited data.
 
 
 ## Summary
